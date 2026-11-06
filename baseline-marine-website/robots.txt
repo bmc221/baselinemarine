@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://baselinemarine.com.au/sitemap.xml
